@@ -1,0 +1,22 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "A javascript project that modifies the Array prototype",
+  "main": "app/prototype.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SplicedMind/prototype.git"
+  },
+  "author": "Akinbode Femi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SplicedMind/prototype/issues"
+  },
+  "homepage": "https://github.com/SplicedMind/prototype#readme"
+}
